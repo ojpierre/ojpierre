@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **as many projects as possible**
 
-- 👨‍💻 All of my projects are available at [https://peter-ouma.vercel.app](https://peter-ouma.vercel.app)
+- 👨‍💻 All of my projects are available at [https://peter-junior.vercel.app](https://peter-junior.vercel.app)
 
 - 💬 Ask me about **react, next.js, node.js**
 
