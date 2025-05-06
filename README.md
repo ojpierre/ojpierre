@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://peter-junior.vercel.app](https://peter-junior.vercel.app)
 
-- 💬 Ask me about **react, next.js, node.js**
+- 💬 Ask me about **react, vue, next.js, nuxt.js, node.js**
 
 - 📫 How to reach me **pierreouma@gmail.com**
 
